@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring Kesehatan Siswa - SDIT H. Maksudi Temi",
+  "description": "Dashboard monitoring kesehatan siswa UKS SDIT H. Maksudi Temi terhubung Google Spreadsheet dengan pengecekan akurasi data otomatis setiap 30 detik dan grafik kesehatan siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

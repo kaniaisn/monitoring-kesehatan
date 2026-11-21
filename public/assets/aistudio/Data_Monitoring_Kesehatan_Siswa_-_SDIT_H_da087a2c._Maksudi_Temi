@@ -1,0 +1,29 @@
+,,,,,,,,,,,,
+,DASHBOARD & RINGKASAN MONITORING KESEHATAN SISWA,,,,,,,,,,,
+,SDIT H. Maksudi Temi • Rekapitulasi Pelayanan Kesehatan & Tindak Lanjut Medis UKS,,,,,,,,,,,
+,,,,,,,,,,,,
+,TOTAL SISWA DIPERIKSA,,STATUS GIZI BAIK,,PERLU ATENSI GIZI,,CAKUPAN IMUNISASI,,KUNJUNGAN UKS,,BUTUH TINDAK LANJUT,
+,20,,13,,7,,"85,0%",,10,,12,
+,Semester Ganjil 2024/2025,,Kondisi berat & tinggi ideal,,Kurang / Lebih / Obesitas,,Target Nasional >95%,,Buku register harian,,Gigi / Mata / Gizi / THT,
+,,,,,,,,,,,,
+,DISTRIBUSI STATUS GIZI SISWA (IMT/U),,,,,,REKAPITULASI INDIKATOR KESEHATAN KHUSUS & UKS,,,,,
+,Kategori Status Gizi,,Rentang IMT (Standar),Jumlah,Persen,Status / Evaluasi,Indikator Pemeriksaan,Kondisi Normal,Perlu Tindak Lanjut,% Masalah,Prioritas,Tindak Lanjut Utama
+,Gizi Baik (Normal),,14.0 - 18.5,13,"65,0%",Optimal / Sehat,Tajam Penglihatan (Mata),16,4,"20,0%",Tinggi,Rujukan periksa spesialis mata / optik
+,Gizi Kurang,,< 14.0,2,"10,0%",Perlu PMT Tambahan,Kesehatan Gigi & Mulut,15,5,"25,0%",Sedang,Penyuluhan sikat gigi & dokter gigi
+,Gizi Lebih,,18.6 - 22.0,3,"15,0%",Edukasi Pola Makan,Kesehatan Telinga (Serumen),18,2,"10,0%",Sedang,Pembersihan serumen di Puskesmas
+,Obesitas,,> 22.0,2,"10,0%",Konseling Gizi Puskesmas,Status Imunisasi BIAS,17,3,"15,0%",Tinggi,Jadwal imunisasi susulan sekolah
+,Total Siswa,,Semua Kategori,20,"100,0%",100% Terpantau,Kasus Register Harian UKS,7,3,"30,0%",Tinggi,Koordinasi puskesmas & wali murid
+,,,,,,,,,,,,
+,DAFTAR PRIORITAS TINDAK LANJUT MEDIS & RUJUKAN SISWA,,,,,,,,,,,
+,"Siswa yang memerlukan penanganan khusus dokter, puskesmas, atau pendampingan intensif UKS",,,,,,,,,,,
+,No,NIS,Nama Siswa,Kelas,Jenis Kelamin,Status Gizi,Hasil Temuan Medis,Rekomendasi / Tindak Lanjut UKS,Fasilitas Rujukan,Status Penanganan,Wali Murid Dihubungi,Keterangan / Target Selesai
+,1,20240102,Aisyah Putri Nurhaliza,1B,P,Gizi Kurang,"Berat badan di bawah standar (17.5 kg, IMT 13.2)",Edukasi Gizi Seimbang,UKS & Puskesmas Pembantu,Dalam Proses,Sudah,Program PMT 3 bulan
+,2,20230201,Muhammad Rizky Pratama,2A,L,Gizi Baik,"Rabun Jauh (Miopi), kesulitan melihat papan tulis",Rujukan Dokter Mata,Klinik Mata / RSUD,Perlu Rujukan,Sudah,Surat rujukan periksa refraksi
+,3,20230202,Siti Khadijah Azzahra,2B,P,Gizi Lebih,Serumen obsturan telinga kanan menumpuk,Pembersihan Serumen di Puskesmas,Puskesmas Kecamatan,Perlu Tindak Lanjut,Sudah,Jadwal ekstraksi serumen puskesmas
+,4,20220302,Fatimah Az-Zahra,3B,P,Gizi Baik,Karies sedang pada gigi geraham bawah berlubang,Rujukan Dokter Gigi,Puskesmas (Poli Gigi),Dalam Proses,Sudah,Penambalan gigi geraham
+,5,20210401,Rayhan Al-Ghifari,4A,L,Obesitas,"IMT 23.4 (Obesitas), karang gigi, mimisan UKS",Rujukan Puskesmas (Gizi),Puskesmas / Ahli Gizi,Perlu Rujukan,Sudah,Konseling diet gizi & kontrol tensi
+,6,20200502,Zaskia Zahrani,5B,P,Gizi Kurang,"IMT 13.1 (Gizi Kurang), konjungtivitis ringan",Edukasi Gizi Seimbang,Puskesmas & UKS,Dalam Proses,Sudah,Pengobatan mata & perbaikan nutrisi
+,7,20190602,Maryam Al-Kautsar,6B,P,Obesitas,"IMT 22.5 (Obesitas), penurunan tajam penglihatan",Rujukan Dokter Mata,Klinik Spesialis Mata,Perlu Rujukan,Sudah,Pemeriksaan visus lanjutan
+,8,20230203,Safiyyah Rahmawati,2A,P,Gizi Baik,Plak gigi dan karies email gigi depan,Rujukan Dokter Gigi,Poli Gigi Puskesmas,Selesai,Sudah,Pembersihan karang gigi & edukasi sikat gigi
+,9,20220303,Dzaky Fakhri,3B,L,Gizi Lebih,"IMT 21.3 (Gizi Lebih), riwayat alergi kacang",Edukasi Gizi Seimbang,UKS SDIT,Dalam Proses,Sudah,Pemantauan bekal makanan sehat
+,10,20200503,Salman Al-Farisi,5A,L,Gizi Baik,"Otitis eksterna ringan telinga kiri, BIAS belum lengkap",Rujukan Puskesmas (Gizi),Puskesmas (Poli THT),Perlu Tindak Lanjut,Sudah,Pengobatan tetes telinga & BIAS susulan
